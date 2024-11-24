@@ -1,0 +1,21 @@
+.home-component{
+    padding: 20px;
+}
+.home-component li{
+        padding: 10px;
+        border: 1px solid #ccc; 
+        margin-bottom: 10px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: space-between;
+   
+}
+.home-component button{
+
+        background-color: #28a745;
+        color: #fff;
+        border: none;
+        padding: 5px 10px;
+        cursor: pointer;
+        border-radius: 5px;
+}
