@@ -1,6 +1,6 @@
 import Home from './PAGES/HOME/Home';
 import Navbar from './COMPONENTS/HEADER/Navbar';
-import Search from './COMPONENTS/HEADER/SEARCH/Search';
+import Search from './COMPONENTS/SEARCH/Search';
 import './App.css'
 
 function App() {

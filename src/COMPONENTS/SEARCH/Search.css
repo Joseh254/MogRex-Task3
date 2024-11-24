@@ -1,0 +1,14 @@
+.search-component{
+    padding: 20px;
+}
+.search-component input{
+    padding: 10px;
+     width: 100%; 
+     margin-bottom: 20px;
+}
+.search-component li{
+    list-style: none;
+   padding: 10px;
+    width: 100%; 
+    margin-bottom: 20px;
+}
