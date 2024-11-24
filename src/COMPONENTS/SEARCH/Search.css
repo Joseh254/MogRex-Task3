@@ -1,5 +1,6 @@
 .search-component{
     padding: 20px;
+    width: 50%;
 }
 .search-component input{
     padding: 10px;

@@ -1,0 +1,23 @@
+.calender-component{
+    padding: 20px;
+     width:50%;
+     background-color: rgb(194, 209, 194);
+}
+.calender-component li{
+    list-style: none;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.calender-component button{   
+        background-color: #28a745;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        border-radius: 5px;
+        margin-top: 10px;
+     
+}
